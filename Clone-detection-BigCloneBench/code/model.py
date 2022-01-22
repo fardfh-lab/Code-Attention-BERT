@@ -1,7 +1,3 @@
-# Copyright (c) Microsoft Corporation. 
-# Licensed under the MIT license.
-
-## Following code has been adapted for running BERT original code used Roberta
 import torch
 import torch.nn as nn
 import torch
